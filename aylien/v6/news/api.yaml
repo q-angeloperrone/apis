@@ -2816,7 +2816,7 @@ components:
             type: integer
   schemas:
     AQL:
-      description: What is AQL?
+      description: What is AQL? AQL, or Aylien Query Language, is a query language used to interact with Aylien's News API. It allows users to formulate complex queries to retrieve news articles and data. The language is designed to be flexible and expressive, enabling users to precisely filter and search through vast amounts of news content.
       type: string
       nullable: true
     Author:
